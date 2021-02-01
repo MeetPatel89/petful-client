@@ -17,8 +17,9 @@ export default class HomePage extends Component {
           that gets adopted.
         </p>
         <img
+          src='https://i.redd.it/q2cbr86p8je61.jpg'
           alt='adopt a pet'
-          src='../images/animals-adoption.jpg'
+          className='responsive'
         />
         <Link to='/cat-adopt'>
           <button> View Cats </button>

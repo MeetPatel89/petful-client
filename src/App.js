@@ -1,8 +1,8 @@
 
 import React, { Component } from 'react';
-import CatAdoption from './Components/CatAdoption';
-import DogAdoption from './Components/DogAdoption';
-import HomePage from './Components/HomePage';
+import CatAdoption from './components/CatAdoption';
+import DogAdoption from './components/DogAdoption';
+import HomePage from './components/HomePage';
 import {
   fetchPeople,
   fetchPets,

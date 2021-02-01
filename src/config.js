@@ -1,7 +1,7 @@
 module.exports = {
-  /*
-  API_BASE_URL: 'https://mighty-sea-18998.herokuapp.com',
-  */
-  API_BASE_URL: 'http://localhost:8000',
   
+  API_ENDPOINT: 'https://mighty-sea-18998.herokuapp.com',
+  /*
+  API_ENDPOINT: 'http://localhost:8000',
+  */
 };

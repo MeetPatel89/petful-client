@@ -1,0 +1,26 @@
+img {
+  width: 100%;
+  height: auto;
+  padding: 5px;
+}
+
+.landing-page,
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+label,
+input {
+    margin: 5px;
+}
+
+button {
+    padding: 5px;
+}
+
+button:hover {
+    cursor: pointer;
+}

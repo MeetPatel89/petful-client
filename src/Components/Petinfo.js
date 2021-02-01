@@ -11,7 +11,7 @@ export default class PetInfo extends Component {
     }
     return (
       <div className='PetInfo'>
-        <img src={animal.imageURL} alt={animal.imageDescription} />
+        <img src={animal.imageURL} alt={animal.imageDescription} className="responsive"/>
         <h3>Name: {animal.name}</h3>
         <p>{animal.story}</p>
         <ul>
